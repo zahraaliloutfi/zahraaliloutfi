@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zahraaliloutfi
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming specifically mobile development using flutter framework 
 - 🌱 I’m currently learning computer and control science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... --> https://www.linkedin.com/in/zahraali3b8965217/
+
 
 <!---
 zahraaliloutfi/zahraaliloutfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
