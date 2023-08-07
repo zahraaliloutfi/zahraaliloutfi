@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZahrAliAbouelkheir
 - 👀 I’m interested in programming specifically mobile development using flutter framework 
-- 🌱 I’m currently learning computer and control science
+- 🌱 I’m currently learning computer and control science engineering
 - 📫 How to reach me ... --> https://www.linkedin.com/in/zahraali3b8965217/
 
 
